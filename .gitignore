@@ -1,0 +1,6 @@
+#Ignore the folder called "History" every where it been.
+**/History/
+**/__Previews/
+*.LOG
+**/Project Logs*
+**/Project Outputs*
